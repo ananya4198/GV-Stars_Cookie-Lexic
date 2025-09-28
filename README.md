@@ -22,6 +22,6 @@ Download the file and open a Chrome webpage. Press the puzzle icon and 'manage e
 
 Our Team:
 - Raksha Kumaresan   rakshakumaresan@garnetvalley.org
-- Sravani Mahankali  sravanimahankali@garnetvalley.org
 - Ananya Nakka  ananyanakka@garnetvalley.org
+- Sravani Mahankali  sravanimahankali@garnetvalley.org
 
